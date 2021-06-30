@@ -1,0 +1,4 @@
+hellow-world:
+  build:
+    image: hello-world
+    dockerfile: i386/Dockerfile
